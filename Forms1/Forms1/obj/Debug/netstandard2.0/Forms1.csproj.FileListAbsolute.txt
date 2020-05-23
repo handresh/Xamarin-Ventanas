@@ -1,0 +1,14 @@
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\bin\Debug\netstandard2.0\Forms1.deps.json
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\bin\Debug\netstandard2.0\Forms1.dll
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\bin\Debug\netstandard2.0\ref\Forms1.dll
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\bin\Debug\netstandard2.0\Forms1.pdb
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\Forms1.csprojAssemblyReference.cache
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\Forms1.csproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\Forms1.AssemblyInfoInputs.cache
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\Forms1.AssemblyInfo.cs
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\Forms1.dll
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\ref\Forms1.dll
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1\obj\Debug\netstandard2.0\Forms1.pdb

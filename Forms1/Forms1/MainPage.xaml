@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Forms1.MainPage"
+             Title="Home">
+    
+    
+    <StackLayout Padding="0,0">
+        <!-- Place new controls here -->
+        <Label Text="Welcome to Xamarin.Forms Andrés!" 
+           HorizontalOptions="Center"
+           VerticalOptions="CenterAndExpand" />
+        <Entry x:Name="boxNombre" Placeholder="Ingresa tu nombre"></Entry>
+        <Button Text="Guardar" x:Name="btnSave" Clicked="BtnSave_Clicked"></Button>
+
+
+        <Button Text="Haz clic" x:Name="btnSumar" Clicked="BtnSumar_Clicked"></Button>
+    </StackLayout>
+
+</ContentPage>
