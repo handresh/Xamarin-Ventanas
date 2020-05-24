@@ -6,18 +6,16 @@
              mc:Ignorable="d"
              x:Class="Forms1.MainPage"
              Title="Home">
-    
-    
-    <StackLayout Padding="0,0">
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms Andrés!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-        <Entry x:Name="boxNombre" Placeholder="Ingresa tu nombre"></Entry>
-        <Button Text="Guardar" x:Name="btnSave" Clicked="BtnSave_Clicked"></Button>
-
-
-        <Button Text="Haz clic" x:Name="btnSumar" Clicked="BtnSumar_Clicked"></Button>
-    </StackLayout>
+    <ScrollView>
+        <StackLayout BackgroundColor="White">
+            <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="CenterAndExpand">
+                <Image Source="monkey1.png" WidthRequest="30" HeightRequest="30"></Image>
+                <Label Text="Home Page" FontSize="30" HorizontalOptions="Center"></Label>
+            </StackLayout>
+            <Image Source="monkey2.jpeg" WidthRequest="300" HeightRequest="300" ></Image>
+            <Entry x:Name="inputNombre" Placeholder="Ingresa tu nombre"></Entry>
+            <Button Text="Ingresar" x:Name="btnIngresar" Clicked="Ingresar_Clicked"></Button>
+        </StackLayout>
+    </ScrollView>
 
 </ContentPage>

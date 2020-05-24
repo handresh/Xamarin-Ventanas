@@ -475,3 +475,6 @@ C:\Users\Andres\source\repos\Forms1\Forms1\Forms1.Android\obj\Debug\90\stamp\_Co
 C:\Users\Andres\source\repos\Forms1\Forms1\Forms1.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\Andres\source\repos\Forms1\Forms1\Forms1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Andres\source\repos\Forms1\Forms1\Forms1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1.Android\obj\Debug\90\res\drawable\monkey2.jpeg
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1.Android\obj\Debug\90\res\drawable\monkey1.png
+C:\Users\Andres\source\repos\Forms1\Forms1\Forms1.Android\obj\Debug\90\res\drawable\monkey3.png

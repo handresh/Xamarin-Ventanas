@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Forms1.UserPage">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout BackgroundColor="White">
+                <Label Text="User Page" FontSize="30" HorizontalOptions="Center" Padding="10,10"></Label>
+                <Image Source="monkey3.png" WidthRequest="200" HeightRequest="200"></Image>
+                <Label x:Name="labelNombre" Text="" FontSize="20" VerticalOptions="CenterAndExpand" HorizontalOptions="Center" />
+                <Image Source="https://xamarindevelopersummit.com/wp-content/uploads/2019/04/Isotype.png" WidthRequest="200" HeightRequest="200"></Image>
+                <Button Text="Ver video" Clicked="VerVideo_Clicked"></Button>
+                <Button Text="Volver a Home" Clicked="Atras_Clicked"></Button>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
